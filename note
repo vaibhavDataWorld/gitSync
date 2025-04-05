@@ -1,1 +1,2 @@
 just write git add. instead of doing it again and again
+git status to just know what to merge or not and then git push , commit to move to local repo
